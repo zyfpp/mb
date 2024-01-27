@@ -1,0 +1,114 @@
+spc,count,is_host_adapted,is_human_infection,temp_22,temp_25,temp_37,opt_temp,opt_ph,growth_rate,ref
+adipatum,2,environmental,,nd,nd,,37,6.0-7.0,rapid,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10517868/
+ahvazicum,2,environmental,Y,nd,nd,+,37,,slow,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5841666/
+alsense,9,environmental,Y,-,+,+,,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.000736
+angelicum,6,environmental,Y,-,+,+,,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.000642#tab2
+arosiense,2,host adapted,Y,-,-,+,42,,slow,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4187642/
+asiaticum,20,host adapted,Y,-,+,+,37,,slow,https://www.jstor.org/stable/4452649?seq=2
+attenuatum,6,environmental,Y,-,-,+,37,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.003378?crawler=true
+avium,725,host adapted,Y,-,-,+,34.5,5.4-6.5,slow,"https://www.ncbi.nlm.nih.gov/books/NBK431110/#:~:text=the%20Runyon%20classification.-,M.,28%20C%20to%2038.5%20C. https://pubmed.ncbi.nlm.nih.gov/15845232/"
+barrassiae,4,,Y,nd,+,+,,,rapid,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4187642/
+bohemicum,6,host adapted,Y,-,+,+,37,,slow,https://pubmed.ncbi.nlm.nih.gov/9828436/
+botniense,2,environmental,N,-,-,+,,,slow,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC153139/
+bouchedurhonense,4,,Y,nd,nd,+,,,rapid,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4187642/
+bourgelatii,4,environmental,N,-,+,+,,,rapid,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4187642/
+branderi,6,host adapted,Y,nd,+,+,,,slow,
+canettii,71,host adapted,Y,nd,nd,+,,,slow,
+celatum,6,host adapted,Y,nd,nd,+,37,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-43-3-539?crawler=true
+colombiense,40,host adapted,Y,+,+,+,,,slow,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5827328/
+conspicuum,6,host adapted,Y,+,+,-,,,slow,
+cookii,4,environmental,N,+,+,+,31,,slow,
+decipiens,2,,Y,nd,+,+,,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.003031#tab2
+deserti,2,,N,+,+,+,15-45,6.0-7.0,rapid,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10517868/
+dioxanotrophicus,2,,,,,,,,,
+eburneum,2,,,nd,+,+,37,7,rapid,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.002033#tab2
+europaeum,5,host adapted,Y,nd,nd,+,,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.025601-0#tab2
+florentinum,6,host adapted,Y,nd,+,+,,,slow,
+fragae,6,environmental,Y,nd,nd,+,,,rapid,
+gallinarum,2,environmental,Y,,,,,,,
+gastri,4,environmental,Y,-,+,+,,,slow,
+genavense,2,host adapted,Y,nd,+,+,45,5.5,slow,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3945967/
+gordonae,23,host adapted,Y,nd,nd,+,35-37,,slow,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3354412/
+grossiae,4,host adapted,Y,nd,+,+,37,,rapid,
+hackensackense,2,host adapted,Y,nd,+,+,,,rapid,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC308987/
+haemophilum,12,host adapted,Y,nd,+,-,30-32,,,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC84575/#:~:text=16%2C%2021).-,M.,3%2C%206%2C%2017)."
+heckeshornense,10,host adapted,Y,nd,nd,+,42,,slow,https://journals.sagepub.com/doi/full/10.1177/1098612X13490711
+heidelbergense,6,host adapted,Y,-,-,+,33-35,,slow,
+helveticum,4,host adapted,N,nd,+,+,,,slow,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7968739/
+hippophais,2,environmental,N,+,+,nd,15–28,6.0-7.0,rapid,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10517868/
+innocens,2,environmental,Y,nd,nd,+,,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.003378?crawler=true
+interjectum,6,host adapted,Y,-,nd,+,,,slow,
+intermedium,8,environmental,Y,+,+,+,31-37,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-43-2-204?crawler=true
+intracellulare,202,host adapted,Y,+,+,+,31.5,,slow,"https://www.ncbi.nlm.nih.gov/books/NBK431110/#:~:text=the%20Runyon%20classification.-,M.,28%20C%20to%2038.5%20C."
+kansasii,92,host adapted,Y,nd,nd,+,32,6,slow,https://www.ncbi.nlm.nih.gov/books/NBK430906/
+kiyosense,32,,Y,,,,,,,
+kubicae,16,,Y,,,,,,,
+kyogaense,2,environmental,N,nd,nd,+,37,7,rapid,
+kyorinense,8,environmental,Y,-,-,+,30-35,,slow,https://web.archive.org/web/20190226210659id_/http://pdfs.semanticscholar.org/772f/2efa6100cc458be75170cbbcb931373bd5f4.pdf
+lacus,6,environmental,Y,nd,w,+,37,,slow,
+lehmannii,4,environmental,Y,,,,,,rapid,
+lentiflavum,4,host adapted,Y,+,+,+,,,slow,
+leprae,12,host adapted,Y,nd,+,+,25-35,7,slow,
+lepraemurium,2,host adapted,N,nd,nd,-,,5.9-6.5,slow,
+lepromatosis,4,host adapted,Y,,,,,,,
+liflandii,3,host adapted,N,nd,+,+,32,,slow,
+malmoense,18,host adapted,Y,v,v,+,28-32,6,slow,
+mantenii,14,host adapted,Y,+,+,+,,,slow,
+marinum,120,host adapted,Y,nd,+,-,30,,slow,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC523024/#:~:text=marinum%20is%20the%20mycobacterial%20species,C%20(4%2C%202)."
+marseillense,16,host adapted,Y,nd,nd,+,,,slow,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9315685/
+methanotrophicum,4,,N,,,,,,,
+montefiorense,22,host adapted,N,nd,+,-,,,slow,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC154687/
+mungi,2,host adapted,N,nd,nd,+,,,slow,
+nebraskense,10,host adapted,Y,-,+,+,30-35,,slow,"https://www.microbiologyresearch.org/docserver/fulltext/ijsem/54/6/2057.pdf?expires=1704391591&id=id&accname=guest&checksum=1BE28E8E524455408345F097C028915B#:~:text=The%20growth%20temperature%20range%20was,both%20dark%20and%20photoinduction%20conditions."
+neglectum,2,environmental,N,-,+,-,28,7,rapid,https://nrl.northumbria.ac.uk/id/eprint/33322/1/Nouioui%20et%20al%20-%20Formal%20description%20of%20Mycobacterium%20neglectum%20and%20Mycobacterium%20palauense.pdf
+neumannii,2,environmental,,-,-,+,37,7,rapid,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.002350#tab2
+noviomagense,6,environmental,Y,nd,nd,+,,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.001511-0#tab2
+novum,2,environmental,Y,,,,,,slow,
+numidiamassiliense,2,,N,,,,30,,,https://www.nature.com/articles/s41598-018-27629-1
+orygis,7,host adapted,Y,,,,,,,https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30142-7/fulltext
+ostraviense,6,host adapted,Y,nd,nd,+,,,slow,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6974680/
+palauense,2,environmental,N,nd,+,nd,28,7,rapid,https://nrl.northumbria.ac.uk/id/eprint/33322/1/Nouioui%20et%20al%20-%20Formal%20description%20of%20Mycobacterium%20neglectum%20and%20Mycobacterium%20palauense.pdf
+palustre,4,environmental,Y,+,+,+,36,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-52-5-1519#tab2
+paraense,10,environmental,Y,nd,+,+,,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.068395-0#tab7
+paraffinicum,4,environmental,Y,stunted,nd,nd,35,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.016972-0#tab2
+paragordonae,14,environmental,Y,nd,+,+,37,,slow,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9364734/#:~:text=The%20optimal%20growth%20temperature%20of,presents%20with%20a%20stable%20disease."
+paraintracellulare,30,environmental,Y,nd,nd,+,37,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001158#tab2
+parascrofulaceum,3,environmental,Y,nd,+,+,37,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.02940-0#tab2
+paraseoulense,6,environmental,Y,,+,+,37,,slow,
+paraterrae,2,environmental,Y,,+,+,37,,slow,
+parmense,6,environmental,Y,nd,+,+,,,,
+persicum,22,environmental,Y,,,+,,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001862#tab2
+pseudokansasii,8,environmental,Y,,,+,,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.003378?crawler=true
+pseudoshottsii,12,host adapted,N,nd,+,-,<30,,slow,https://core.ac.uk/reader/235421020
+rhizamassiliense,2,,N,,,,30,,slow,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6006331/
+riyadhense,22,host adapted,Y,nd,+,nd,,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.005629-0#tab19
+saskatchewanense,6,environmental,Y,nd,+,+,37,,slow,
+scrofulaceum,7,host adapted,Y,,,,,,slow,
+senriense,2,,Y,nd,slower,+,,,slow,https://journals.asm.org/doi/10.1128/jcm.00331-22
+seoulense,4,environmental,Y,nd,+,+,37,,slow,
+sherrisii,6,host adapted,Y,nd,+,+,30-37,,slow,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC321678/
+shigaense,6,host adapted,Y,-,+,+,,,slow,
+shimoidei,8,host adapted,Y,,,,,,slow,
+shinjukuense,6,host adapted,Y,nd,-,+,,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.025478-0#tab3
+shottsii,4,environmental,N,+,+,-,23-25,,slow,https://cdnsciencepub.com/doi/abs/10.1139/cjm-2013-0079?mobileUi=0&journalCode=cjm
+simiae,10,host adapted,N,+,+,+,37,7,slow,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7192373/
+simulans,4,,Y,,,,37,,slow,
+sp. AT1,2,environmental,,,,,,,,
+sp. EPa45,2,environmental,,,,,,,,
+spongiae,2,,,,,,,,,
+stomatepiae,4,host adapted,N,nd,+,-,30,,slow,
+syngnathidarum,4,environmental,Y,nd,nd,+,,,rapid,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.002978#tab1
+szulgai,4,host adapted,Y,,,,,,slow,
+talmoniae,4,host adapted,Y,nd,+,+,37,,slow,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001998#tab2
+terramassiliense,2,environmental,N,,,,37,,slow,https://www.nature.com/articles/s41598-018-27629-1
+tilburgii,2,host adapted,Y,,,,,,uncultivated,
+timonense,6,host adapted,Y,nd,nd,+,,,slow,
+triplex,4,host adapted,Y,nd,+,+,,,slow,
+tuberculosis,14790,host adapted,Y,-,-,+,37,6.4-7.0,slow,
+uberis,2,host adapted,N,,,,,,,
+ulcerans,24,host adapted,Y,nd,w,-,29-33,,slow,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10072065/
+unidentified,603,,,,,,,,,
+vicinigordonae,2,,Y,,,,,,,
+wuenschmannii,2,,N,,,,,,,
+xenopi,16,host adapted,Y,nd,-,,42,,slow,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614773/#:~:text=xenopi%20is%20a%20slow%2Dgrowing,mycolic%20acid%20pattern%20(10)."
+yunnanensis,2,,N,,,,,,,
